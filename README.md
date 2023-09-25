@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at Softtek at the Innovation Team ...
 - 🌱 I’m currently learning : LLMs, Vector Data Bases , Flutter, .NET MAUI
 - 👯 I'm looking to collaborate on open-source projects that aim to use technology to improve the world and make it easier to launch complex products using new technologies
